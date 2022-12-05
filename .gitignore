@@ -3,3 +3,4 @@ uber_rides_sample.csv
 weather
 .DS_Store
 project.db
+*.parquet
