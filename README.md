@@ -9,3 +9,5 @@ We first download raw data on yellow taxi trips, uber trips, and weather from th
 Project Group 4
 
 UNIs: [zy2537, sg4129]
+
+There are three contributors shown in this project but Michael0820Guo and Michael990820Guo are the same person Shilin Guo sg4129, and yangzq22 is another contributor Zhaoqi Yang, zy2537
