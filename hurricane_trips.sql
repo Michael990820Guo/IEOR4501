@@ -13,5 +13,5 @@
     FROM hourly_weather
     LEFT JOIN all_trips
     ON weather_date_hour = trip_date_hour
-    WHERE weather_date_hour BETWEEN '2012-10-22' AND '2012-11-04'
+    WHERE hourly_weather.DATE BETWEEN '2012-10-22' AND '2012-11-04'
     GROUP BY weather_date_hour
